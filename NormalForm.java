@@ -36,6 +36,14 @@ class NoOfClosedIntervals
 		}
 		return b;
 	}
+	public void compute() 
+	{
+		
+	}
+}
+class output
+{
+	
 }
 
 public class NormalForm 
